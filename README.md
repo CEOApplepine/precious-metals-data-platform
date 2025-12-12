@@ -30,12 +30,12 @@ The dashboard allows users to explore:
 - ✅ **Fully self-contained**: no external data required, works on Streamlit Cloud and iPad
 
 - ### Dataset Preview
-![Dataset Preview](img_0060.jpg)
+![Dataset Preview](IMG_0060.jpeg)
 
 ### Daily Trade Counts
-![Daily Trade Counts](screenshots/daily_trade_counts.png)
+![Daily Trade Counts](IMG_0058.jpeg)
 
 ### Metal Breakdown
-![Metal Breakdown](screenshots/metal_breakdown.png)
+![Metal Breakdown](IMG_0059.jpeg)
 - 
 https://precious-metals-data-platform-nrvvkv9cawqehy4czs2hbx.streamlit.app
