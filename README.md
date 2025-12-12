@@ -28,5 +28,14 @@ The dashboard allows users to explore:
 - ✅ **SQLite warehouse**: stores structured trading data  
 - ✅ **Streamlit dashboard**: interactive charts and tables  
 - ✅ **Fully self-contained**: no external data required, works on Streamlit Cloud and iPad
+
+- ### Dataset Preview
+![Dataset Preview](img_0060.jpg)
+
+### Daily Trade Counts
+![Daily Trade Counts](screenshots/daily_trade_counts.png)
+
+### Metal Breakdown
+![Metal Breakdown](screenshots/metal_breakdown.png)
 - 
 https://precious-metals-data-platform-nrvvkv9cawqehy4czs2hbx.streamlit.app
